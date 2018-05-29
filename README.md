@@ -30,3 +30,6 @@ https://carto.com/blog/location-data-water-insecurity/?utm_content=69398041&utm_
 
 /// azure courses ///
 https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033
+
+https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9
+
